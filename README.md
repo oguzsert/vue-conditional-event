@@ -58,7 +58,7 @@ VUE
 //Example implementation
 import Vue from 'vue'
 import App from './App.vue'
-import vce from "./vce"
+import vce from "vue-conditional-event"
 
 Vue.config.productionTip = false
 Vue.use(vce)
