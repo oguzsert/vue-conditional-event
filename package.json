@@ -1,0 +1,27 @@
+{
+  "name": "vue-conditional-event",
+  "version": "1.0.1",
+  "description": "a plugin for make conditional events",
+  "main": "vce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguzsert/vue-conditional-event.git"
+  },
+  "keywords": [
+    "vue",
+    "event",
+    "validation"
+  ],
+  "author": "Oğuz Sert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oguzsert/vue-conditional-event/issues"
+  },
+  "files": [
+    "./*.js"
+  ],
+  "homepage": "https://github.com/oguzsert/vue-conditional-event#readme"
+}
